@@ -33,8 +33,8 @@ const DarkTheme = () => {
             className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 appearance-none cursor-pointer"
           />
           <label
-            for="toggle"
-            class="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"
+            htmlFor="toggle"
+            className="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"
           ></label>
         </div>
       </div>

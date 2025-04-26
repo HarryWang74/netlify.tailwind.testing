@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { BsCaretRightFill } from 'react-icons/bs'
 const Transform = () => {
   const [openState, setSate] = useState(false)
